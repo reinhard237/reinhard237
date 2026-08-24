@@ -2,8 +2,6 @@
 
 ## Data Analyst | Data Scientist | Data Storyteller
 
-[GitHub](https://github.com/reinhard237) | [LinkedIn](https://www.linkedin.com/in/reinhard-bonnke-b6b86721b/) | [Your Email](bonnkemcochieng@gmail.com) | [Personal Website](https://dev.to/reinhard_bonnke_3c96981a4)
-
 ## About Me
 
 Data Analyst and Data Scientist with a background in Health Service Management, focused on transforming data into meaningful insights and practical solutions. I work with structured datasets, data cleaning, exploratory analysis, and predictive modelling. 
@@ -128,7 +126,7 @@ End-to-end Power BI project transforming raw e-commerce sales data into an inter
 
 ## Contact
 
-* **GitHub:** `https://github.com/reinhard237`
-* **LinkedIn:** `https://www.linkedin.com/in/reinhard-bonnke-b6b86721b/`
-* **Email:** `bonnkemcochieng@gmail.com`
-* **Website:** `https://dev.to/reinhard_bonnke_3c96981a4`
+* **GitHub:** (https://github.com/reinhard237)
+* **LinkedIn:** (https://www.linkedin.com/in/reinhard-bonnke-b6b86721b/)
+* **Email:** (bonnkemcochieng@gmail.com)
+* **Website:** (https://dev.to/reinhard_bonnke_3c96981a4)
